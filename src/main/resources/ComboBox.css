@@ -1,0 +1,7 @@
+.combo-box{-fx-border-width: 0.5; -fx-border-color: transparent}
+.cell{-fx-background-color: #FFFFFF; -fx-text-fill: #000000}
+.arrow-button{-fx-background-color: #FFFFFF}
+.arrow{-fx-background-color: #4B0000}
+.combo-box-popup .cell{-fx-background-color: #FFFFFF; -fx-text-fill: #000000}
+.combo-box-popup .cell: hover{-fx-background-color: #FF0000; -fx-text-fill: #000000}
+.combo-box-popup .cell: selected{-fx-background-color: #FF0000; -fx-text-fill: #000000}

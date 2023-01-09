@@ -1,0 +1,5 @@
+.placeholder .label {-fx-text-fill: #FFFFFF}
+.table-column{-fx-alignment: CENTER}
+.cell: odd{-fx-background-color: #FFFFFF}
+.cell: even{-fx-background-color: #FFFFFF}
+.cell: selected{-fx-background-color: #FF0000; -fx-border-color: #FF0000; -fx-text-fill: #FFFFFF}

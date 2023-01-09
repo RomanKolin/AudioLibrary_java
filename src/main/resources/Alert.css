@@ -1,0 +1,3 @@
+.label{-fx-font-family: Times New Roman; -fx-font-size: 14; -fx-text-fill: #000000}
+.button{-fx-background-color: transparent; -fx-border-color: #FF0000; -fx-font-family: Times New Roman; -fx-font-size: 14; -fx-text-fill: #000000}
+.button: hover{-fx-background-color: #FF0000; -fx-border-color: #FF0000; -fx-font-family: Times New Roman; -fx-font-size: 14; -fx-text-fill: #000000}
